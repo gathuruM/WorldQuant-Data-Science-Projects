@@ -20,7 +20,7 @@ The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), of
 
    + Built **ML pipelines** by means of *Ridge, OneHotEncoder, SimpleImputer, LinearRegression* and *make_pipeline* built-in *sklearn* functions
    + Applied **L2 Regularization** in order to prevent **overfitting or underfitting** in **Linear Regression** models
-   + Created an **interactive dashboard** utilizing *ipywidgets* library to **module predictions** based on different input features
+   + Created an **interactive dashboard** using *ipywidgets* library to **module predictions** based on different input features
 
 [Image Snapshot of Interactive Dashboard](https://drive.google.com/file/d/1K9q6zKppEBKqwGn_94DTVjOfQIrdlxVC/view?usp=drive_link)
 <br> 
