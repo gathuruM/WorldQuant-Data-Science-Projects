@@ -15,7 +15,7 @@ The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), of
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients  
    + **Cleaned** and **wrangled raw data** by creating a **custom *wrangle* function**
 
-   + ![Image Snapshot of Interactive Dashboard]("C:\Users\HP\OneDrive\Pictures\Bueno Aires dashboard.png")
+![Image Snapshot of Interactive Dashboard]("C:\Users\HP\OneDrive\Pictures\Bueno Aires dashboard.png")
    
 <br> 
 
