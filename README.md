@@ -14,6 +14,9 @@ The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), of
    + Created preliminary and exploratory histograms, scatter plots, whisker plots and bar charts
    + Examined the relationship between variables by assessing **Pearson correlation** coefficients  
    + **Cleaned** and **wrangled raw data** by creating a **custom *wrangle* function**
+
+   + ![Image Snapshot of Interactive Dashboard]("C:\Users\HP\OneDrive\Pictures\Bueno Aires dashboard.png")
+   
 <br> 
 
 ![](https://img.shields.io/badge/Project%202-Apartment%20Sales%20in%20Buenos%20Aires-orange?style=for-the-badge)
@@ -44,5 +47,5 @@ The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), of
 	   + For **Logistic Regression algorithms**, evaluated **Odds ratios** to explain its predictions
    + Reviewed the **Ethics of Environmental and Social impact** that Machine Learning models may lead to because of **data biases**
 <br>
-
+Image snap of interactive da
 
