@@ -46,5 +46,5 @@ The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), of
 	   + For **Logistic Regression algorithms**, evaluated **Odds ratios** to explain its predictions
    + Reviewed the **Ethics of Environmental and Social impact** that Machine Learning models may lead to because of **data biases**
 <br>
-Image snap of interactive da
+
 
